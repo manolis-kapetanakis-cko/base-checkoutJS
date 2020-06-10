@@ -1,5 +1,3 @@
-const paymentDetails = document.getElementById("paymentDetails");
-
 const payWithToken = token => {
   http(
     {
